@@ -1,4 +1,4 @@
-# deepMIMO_XBuiler: Executers &amp; Builders of deepMIMO framwork
+# deepMIMO_XBuilder: Executers &amp; Builders of deepMIMO framwork
 ### A set of jupyter notebook scripts for executing pretrained prediction models or building user own prediction models.
 
 본 저장소에서 제공하는 파이썬 언어 기반 주피터 노트북 스크립트는 유방암의 3D 진단영상 데이터 및 다중오믹스 데이터를 분석하여 OncotypeDX 위험지수, 예후 또는 면역형을 예측하는 모델 구동 파이썬 스크립트 코드를 제공합니다.
