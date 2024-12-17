@@ -10,8 +10,8 @@
 * <b>UC_003-2.unimodal_MRI_TNBC_imtype_predictor.ipynb</b>: 삼중음성유방암의 MRI 영상데이터에서 환자의 면역형을 예측하는 모델 구동 스크립트
 * <b>UC_004-1.multimodal_MRI_TNBC_prognosis_predictor.ipynb</b>: 삼중음성유방암의 MRI 영상데이터 및 다중오믹스 데이터로부터 환자의 예후를 예측하는 모델 구동 스크립트
 * <b>UC_004-2.multimodal_MRI_TNBC_imtype_predictor.ipynb</b>: 삼중음성유방암의 MRI 영상데이터 및 다중오믹스 데이터로부터 환자의 면역형을 예측하는 모델 구동 스크립트
-* <b>UC_005.unimodal_prognosis_builder.ipynb</b>: 유방암의 3차원 영상데이터에서 환자의 예후 예측모델을 구축하는 예측모델 구축 스크립트
-* <b>UC_006.multimodal_prognosis.builder.ipynb</b>: 유방암의 3차원 영상데이터와 다중오믹스 또는 임상데이터에서 환자의 예후 예측모델을 구축하는 예측모델 구축 스크립트
+* <b>UC_005.unimodal_prognosis_builder.ipynb</b>: 일반암의 3차원 영상데이터에서 환자의 예후 예측모델을 구축하는 예측모델 구축 스크립트
+* <b>UC_006.multimodal_prognosis.builder.ipynb</b>: 일반암의 3차원 영상데이터와 다중오믹스 또는 임상데이터에서 환자의 예후 예측모델을 구축하는 예측모델 구축 스크립트
 * <b>UC_00*.***.txt</b>: 각 스크립트를 구동할 수 있는 예제데이터의 메타정보
 
 ## 사용방법
